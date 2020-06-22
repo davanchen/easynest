@@ -22,3 +22,11 @@
 | validator  | 数据验证模块，基于ajv的包装，同样需要借助EasyType生成类型声明  |
 | microservice  | （未全部完成）微服务模块，借助EasyType和API文档模块，可以一键生成proto申明文件、interface文件和RPC代理调用代码，目前写了一个vscode插件可以生成本地的，后期可以根据远程api地址生成  |
 
+### 借助插件一键生成proto
+![](https://github.com/davanchen/easynest/raw/master/Code_7GLTwoRGAx.png)
+![](https://github.com/davanchen/easynest/raw/master/Code_oBYASf68Uo.png)
+
+### API文档自动生成（枚举、控制器、模型）
+![](https://github.com/davanchen/easynest/raw/master/screenshot_enums.PNG)
+![](https://github.com/davanchen/easynest/raw/master/screenshot_controller.PNG)
+![](https://github.com/davanchen/easynest/raw/master/screenshot_models.PNG)
